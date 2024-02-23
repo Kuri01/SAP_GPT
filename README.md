@@ -61,7 +61,7 @@ Take a screenshot of the SAP form you want to analyze and save it as `screenshot
 Execute the main script to start the process:
 
 ```bash
-python sap_gpt.py
+python3 index.py
 ```
 
 The script performs the following steps:
