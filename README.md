@@ -92,10 +92,6 @@ After the script completes its execution, you will find three text files in your
 
 Contributions to the SAP_GPT application are welcome. Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
-
-Specify the license under which the SAP_GPT application is released, ensuring users are aware of their rights and restrictions.
-
 # Sample Output
 
 The SAP_GPT application generates three text files as output, each containing specific information about the SAP form analyzed. Below are sample responses for each of the generated files.
